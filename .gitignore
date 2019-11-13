@@ -1,0 +1,6 @@
+*.dcm
+*.nii
+*.nii.gz
+*.log
+*.feat
+
