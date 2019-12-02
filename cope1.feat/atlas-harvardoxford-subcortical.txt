@@ -1,0 +1,18 @@
+--------------------------------
+| coordinate 60.00 -20.00 8.00 |
+--------------------------------
+
+name                        | index | summary value | proportion
+--------------------------- | ----- | ------------- | ----------
+Right Cerebral Cortex       | 12    | 13            | 66.4176   
+Right Cerebral White Matter | 11    | 12            | 33.5824   
+
+---------------------------------
+| coordinate -64.00 -36.00 8.00 |
+---------------------------------
+
+name                       | index | summary value | proportion
+-------------------------- | ----- | ------------- | ----------
+Left Cerebral Cortex       | 1     | 2             | 66.4640   
+Left Cerebral White Matter | 0     | 1             | 32.6133   
+

@@ -1,0 +1,7 @@
+rm: cannot remove 'design.txt': No such file or directory
+rm: cannot remove 'group.txt': No such file or directory
+ls: cannot access 'level1/sub-*.feat': No such file or directory
+
+Unable to open design.mat
+rm: cannot remove 'design.txt': No such file or directory
+rm: cannot remove 'group.txt': No such file or directory

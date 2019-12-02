@@ -1,0 +1,14 @@
+--------------------------------
+| coordinate 60.00 -20.00 8.00 |
+--------------------------------
+
+name  | Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 41
+label | 673                                                                              
+
+---------------------------------
+| coordinate -64.00 -36.00 8.00 |
+---------------------------------
+
+name  | Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.White Matter.*
+label | 39                                                                
+

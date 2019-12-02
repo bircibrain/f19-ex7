@@ -1,0 +1,60 @@
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD901_ses-1_task-music_run-event_beat.tsv'
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD902_ses-1_task-music_run-event_beat.tsv'
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD904_ses-1_task-music_run-event_beat.tsv'
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD901_ses-1_task-prosody_run-event_Angry.female.tsv'
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD902_ses-1_task-prosody_run-event_Angry.female.tsv'
+Traceback (most recent call last):
+  File "/scripts/bids2fsl_events.py", line 23, in <module>
+    fsl_onsets.to_csv(args.prefix + '_' + g[0] + '.tsv', sep='\t', index=False, header=False, doublequote=False)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/core/generic.py", line 3020, in to_csv
+    formatter.save()
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/formats/csvs.py", line 157, in save
+    compression=self.compression)
+  File "/usr/local/miniconda/lib/python2.7/site-packages/pandas/io/common.py", line 421, in _get_handle
+    f = open(path_or_buf, mode)
+IOError: [Errno 2] No such file or directory: '/output/timing/sub-TD904_ses-1_task-prosody_run-event_Angry.female.tsv'

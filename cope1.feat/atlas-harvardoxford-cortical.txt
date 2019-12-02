@@ -1,0 +1,22 @@
+--------------------------------
+| coordinate 60.00 -20.00 8.00 |
+--------------------------------
+
+name                                        | index | summary value | proportion
+------------------------------------------- | ----- | ------------- | ----------
+Planum Temporale                            | 45    | 46            | 51.0000   
+Heschl's Gyrus (includes H1 and H2)         | 44    | 45            | 6.0000    
+Parietal Operculum Cortex                   | 42    | 43            | 4.0000    
+Central Opercular Cortex                    | 41    | 42            | 3.0000    
+Superior Temporal Gyrus, posterior division | 9     | 10            | 2.0000    
+
+---------------------------------
+| coordinate -64.00 -36.00 8.00 |
+---------------------------------
+
+name                                        | index | summary value | proportion
+------------------------------------------- | ----- | ------------- | ----------
+Superior Temporal Gyrus, posterior division | 9     | 10            | 31.0000   
+Supramarginal Gyrus, posterior division     | 19    | 20            | 2.0000    
+Middle Temporal Gyrus, posterior division   | 11    | 12            | 2.0000    
+

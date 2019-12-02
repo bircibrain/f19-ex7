@@ -1,0 +1,26 @@
+/scripts/run_feat_ex7.sh: line 15: /scripts/designs/sub-TD901_ses-1_task-music.fsf: No such file or directory
+grep: /scripts/designs/sub-TD901_ses-1_task-music.fsf: No such file or directory
+    while executing
+"exec sh -c "grep -a 'fmri(inmelodic)' $filename | tail -n 1 | awk '{ print \$3 }'" "
+    (procedure "feat5:load" line 5)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/usr/local/fsl/bin/feat" line 309)
+/scripts/run_feat_ex7.sh: line 15: /scripts/designs/sub-TD902_ses-1_task-music.fsf: No such file or directory
+grep: /scripts/designs/sub-TD902_ses-1_task-music.fsf: No such file or directory
+    while executing
+"exec sh -c "grep -a 'fmri(inmelodic)' $filename | tail -n 1 | awk '{ print \$3 }'" "
+    (procedure "feat5:load" line 5)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/usr/local/fsl/bin/feat" line 309)
+/scripts/run_feat_ex7.sh: line 15: /scripts/designs/sub-TD904_ses-1_task-music.fsf: No such file or directory
+grep: /scripts/designs/sub-TD904_ses-1_task-music.fsf: No such file or directory
+    while executing
+"exec sh -c "grep -a 'fmri(inmelodic)' $filename | tail -n 1 | awk '{ print \$3 }'" "
+    (procedure "feat5:load" line 5)
+    invoked from within
+"feat5:load -1 1 ${fsfroot}.fsf"
+    (file "/usr/local/fsl/bin/feat" line 309)
+slurmstepd: *** JOB 2802008 ON cn362 CANCELLED AT 2019-11-27T04:22:12 DUE TO TIME LIMIT ***
+slurmstepd: Exceeded step memory limit at some point.

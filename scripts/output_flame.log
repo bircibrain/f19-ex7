@@ -1,0 +1,120 @@
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=example_func --out=frgrot_JtfRLk --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mean_func --out=frgrot_e3hwpO --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/cope1 --out=frgrot_eW9KuO --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/varcope1 --out=frgrot_rZCX0j --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mask --out=frgrot_g5o01W --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=nn
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=reg/highres --out=frgrot_hsA4Vf --warp=reg/highres2standard_warp  --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=example_func --out=frgrot_aPOV62 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mean_func --out=frgrot_TdzgC9 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/cope1 --out=frgrot_8Gwy28 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/varcope1 --out=frgrot_fTpqix --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mask --out=frgrot_iPQBa6 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=nn
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=reg/highres --out=frgrot_FM45cw --warp=reg/highres2standard_warp  --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=example_func --out=frgrot_V60gic --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mean_func --out=frgrot_EvBpRr --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/cope1 --out=frgrot_M3oREo --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/varcope1 --out=frgrot_tQQSAY --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mask --out=frgrot_bnWIjl --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=nn
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=reg/highres --out=frgrot_Bn6E16 --warp=reg/highres2standard_warp  --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=example_func --out=frgrot_nSsZ9R --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mean_func --out=frgrot_GE6loR --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/cope1 --out=frgrot_dcEKoK --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/varcope1 --out=frgrot_itA0hk --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mask --out=frgrot_8fKpmS --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=nn
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=reg/highres --out=frgrot_amhc4a --warp=reg/highres2standard_warp  --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=example_func --out=frgrot_EPhrC2 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mean_func --out=frgrot_8WcpZ5 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=spline
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/cope1 --out=frgrot_g4hEG2 --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=stats/varcope1 --out=frgrot_j9FoCn --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=trilinear
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=mask --out=frgrot_sbqpuX --warp=reg/highres2standard_warp --premat=reg/example_func2highres.mat --interp=nn
+
+
+/usr/local/fsl/bin/applywarp --ref=reg/standard --in=reg/highres --out=frgrot_HejIvp --warp=reg/highres2standard_warp  --interp=spline
+
+Error - registration has not been run for /output/level1/sub-TD904_task-music.feat
+Log directory is: cope1.feat
+Setting up:
+Error - registration has not been run for /output/level1/sub-TD904_task-music.feat
+Log directory is: cope1.feat+
+Setting up:
+Log directory is: cope1.feat
+Setting up:
+Log directory is: cope1.feat+
+Setting up:
+Log directory is: cope1.feat
+Setting up:
+ntptsing=3.000000 
+
+evs_group=1.000000 
+
+No f contrasts
+
+WARNING: The passed in varcope file, varcope1, contains voxels inside the mask with zero (or negative) values. These voxels will be excluded from the analysis.
+nevs=1
+ntpts=3
+ngs=1
+nvoxels=283531
+Running:
+nmaskvoxels=283531
+ 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100
+nmaskvoxels=283531
+Saving results
+
+Log directory was: cope1.feat
